@@ -28,7 +28,7 @@ In order to build a larger digital intertextuality, the WWP needs to coordinate 
 * Source URL: https://dh2017.adho.org/abstracts/255/255.pdf
 * Permissions: Free open-source
 * Creator and Affiliation: Marie-Louise Coolahan and David Kelly
-* Tags: Plot analysis, network analysis, dynamic networks, digital literary studies
+* Tags: Network analysis, digital literary studies, women writers, intertextuality
 
 The RECIRC project (The Reception and Circulation of Early Modern Women’s Writing, 1550– 1700; funded by the European Research Council (2014–2019) and led by Marie-Louise Coolahan) is aimed at studying intellectual impact and answer questions concerning who read women writers, where, when, and who of them were read.  RECIRC is structured around four interlinking ‘work packages’ (Catholic religious orders; scientific correspondence; early modern manuscripts; early modern library archives).
 The project is mainly concerned with developing taxonomies of reception and circulation (collaboration with WWP and the Collective Biographies of Women project).  According to the abstract, the aim of the project is to create network visualizations and analyses that embrace both the gendering of reception and the relationships of texts with each other. 
