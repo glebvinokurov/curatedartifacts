@@ -5,7 +5,7 @@
 # Curatorial Statement
 
 The study of Russian women writers faces some significant challenges, which lie not only in the general lack of its representation within the Russian literary studies, but also in its relative isolation from similar research projects discussing the early women writers in Europe and North America. It is indeed true that professional women writing was not as common in Russia in the 18-19 century as it was in the West, nor did the works of Russian women writers have an impact as large as that of their Western counterparts (until the late 19 century). That being said, the Russian Empire was by no means isolated from the West and its literary discourse, therefore certain parallels and intertextual relationships can be discovered and described. 
-In this selection, the first two artefacts are chosen from the collection of abstracts from the Digital Humanities 2017 conference, and the third artifact is a tool discovered through TAPoR 3.0. The selected artifacts can not only facilitate searching the connections with foreign writers and drawing analogies, but also serve as models for possible similar projects tailored to Russian women writers.
+In this selection, the first two artefacts are chosen from the collection of abstracts from the *Digital Humanities 2017* conference, and the third artifact is a tool discovered through TAPoR 3.0. The selected artifacts can not only facilitate searching the connections with foreign writers and drawing analogies, but also serve as models for possible similar projects tailored to Russian women writers.
   
 
 # Curated Artifacts
@@ -37,6 +37,7 @@ The project is mainly concerned with developing taxonomies of reception and circ
 ## Orlando Degrees of Separation 
 
 ![screenshot](https://github.com/glebvinokurov/curatedartifacts/blob/master/Orlando6degrees.png)
+
 Sample screenshot of Orlando Degrees of Separation
 
 
@@ -50,21 +51,12 @@ The Orlando Project, led by Patricia Clements, Isobel Grundy, and Susan Brown at
 
 ## Works Cited 
 
-Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres réponses.* Paris: Galilée, 2001.
 
-Fischer,	Frank,	Mathias Göbel,	Dario Kampkaspar,	Christopher Kittel, and Peer Trilcke. *dlina	– Digitally-Driven Literary Network Analysis	 (of	 Dramatic	 Texts).* Blog, 2015ff. https://dlina.github.io/	Accessed October 9, 2017.
+Connell, Sarah, and Julia Flanders. “Intertextual Networks: Theorizing and Encoding Textual Connections in Early Women’s Writing.” *Digital Humanities 2017. Conference Abstracts.*, Aug. 2017. https://dh2017.adho.org/abstracts/255/255.pdf Accessed October 21, 2017.
 
-Fischer, Frank, Mathias Göbel, Dario Kampkaspar, Christopher Kittel, and Peer Trilcke. "Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts." *Digital Humanities 2017. Conference Abstracts.* Montréal, Canada, August 8 – 11, 2017. https://dh2017.adho.org/abstracts/071/071.pdf Accessed October 9, 2017.
+Coolahan, Marie-Louise, and David Kelly. “Digital Representation, Intertextual Relationships, and the Impact of Early Modern Women’s Writing.” *Digital Humanities 2017. Conference Abstracts.*, Aug. 2017, https://dh2017.adho.org/abstracts/255/255.pdf. Accessed October 21, 2017.
 
-Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. *Cäsar Flaischlen's 'Graphische Litteratur-Tafel'. A Digital Edition. (Version: Alpha, October 2016).* http://litteratur-tafel.weltliteratur.net Accessed October 9, 2017.
+Orlando Degrees of Separation. http://cwrc.cs.ualberta.ca/index.php/General:Degrees_of_Separation Accessed October 21, 2017.
 
-Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Montréal, Canada, August 8 – 11, 2017. https://dh2017.adho.org/abstracts/506/506.pdf Accessed October 9, 2017.
-
-Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History.* London and New York: Verso, 2007.
-
-Paper Machines. http://papermachines.org Accessed October 9, 2017.
-
-TAPoR 3. http://tapor.ca Accessed October 9, 2017.
-
-Zotero. https://www.zotero.org/ Accessed October 9, 2017.
+TAPoR 3. http://tapor.ca Accessed October 21, 2017.
 
