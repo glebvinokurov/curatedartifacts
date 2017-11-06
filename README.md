@@ -36,7 +36,7 @@ The project is mainly concerned with developing taxonomies of reception and circ
 
 ## Orlando Degrees of Separation 
 
-![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/paper_machines_banner.JPG)
+![screenshot](https://github.com/glebvinokurov/curatedartifacts/blob/master/Orlando6degrees.png)
 Sample screenshot of Orlando Degrees of Separation
 
 
