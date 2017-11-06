@@ -1,6 +1,6 @@
 # Digital Humanities Artefacts
 
-# *Visualization of Literary Networks and Data*
+# *Intertextual Connections in Early Women's Writing*
 
 # Curatorial Statement
 
